@@ -14,7 +14,3 @@ Desenvolvedor Java, coordenador de implantações e estudante do 4º semestre de
 
 - 📧 [gabrielotacilioalveslopes2019@gmail.com](mailto:gabrielotacilioalveslopes2019@gmail.com)
 - 🔗 [LinkedIn](#) *https://br.linkedin.com/in/gabrielotacilio/*
-
----
-
-⭐ **Obrigado por visitar meu perfil!** Explore meus repositórios e conecte-se comigo!
