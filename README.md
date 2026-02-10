@@ -1,6 +1,6 @@
 # Gabriel Otacilio
 
-Desenvolvedor Java, coordenador de implantações e estudante do 4º semestre de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, atuo no suporte técnico e na coordenação das implantações de uma software house com mais de 2.500 clientes.
+Desenvolvedor Java, coordenador de implantações e estudante do 5º semestre de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, atuo no suporte técnico e na coordenação das implantações de uma software house com mais de 2.500 clientes.
 
 ## Sobre Mim
 
